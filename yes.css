@@ -17,3 +17,19 @@
 body{
     background: linear-gradient(to right, rgb(228, 35, 141), green) ;
 }
+button{
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+    position: relative;
+    left: 45%;
+    bottom: 70px;
+    cursor: pointer;
+    width: 100px;
+    height: 40px;
+    border: none;
+    background-color: rgb(138, 16, 138);
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+}

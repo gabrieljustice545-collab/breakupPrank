@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.yes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 auto;
+    line-height: 2.5;
+    width: 700px;
+    height: 500px;
+    /* background-color: rgb(236, 148, 163); */
+}
+body{
+    background: linear-gradient(to right, rgb(228, 35, 141), green) ;
+}
